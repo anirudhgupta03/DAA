@@ -100,10 +100,16 @@ Since  we  have  not  used  any  extradata structure in our algorithm so the spa
 
 ### References
 
-1.  Introduction to Divide and Conquer Technique:https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
-2.  Find an element in Bitonic arrayhttps://www.geeksforgeeks.org/find-element-bitonic-array/
-3.  Pixel Valueshttps://homepages.inf.ed.ac.uk/rbf/HIPR2/value.htm/
-4.  Digital Image Basicshttps://www.whydomath.org/node/wavlets/imagebasics.html
-5.  Time Complexityhttps://www.freecodecamp.org/news/time-complexity-of-algorithms/
-6.  Space Complexityhttps://en.wikipedia.org/wiki/Spacecomplexity
+1.  Introduction to Divide and Conquer Technique
+    https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
+2.  Find an element in Bitonic arrayhttps:
+    //www.geeksforgeeks.org/find-element-bitonic-array/
+3.  Pixel Valueshttps
+    //homepages.inf.ed.ac.uk/rbf/HIPR2/value.htm/
+4.  Digital Image Basicshttps
+    //www.whydomath.org/node/wavlets/imagebasics.html
+5.  Time Complexityhttps
+    //www.freecodecamp.org/news/time-complexity-of-algorithms/
+6.  Space Complexityhttps
+    //en.wikipedia.org/wiki/Spacecomplexity
 
