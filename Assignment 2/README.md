@@ -27,7 +27,7 @@ To run the code, follow the following procedure:
 5. Run the code following the proper running commands(vary from IDE to IDE)
 (a) For VS Code: Press Function+F6 key and provide the input on the terminal.
 (b) For Sublime Text: Click on the Run button and provide the input.
-
+---
 **Test case**
 
 ```
