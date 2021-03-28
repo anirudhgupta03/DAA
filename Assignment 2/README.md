@@ -82,7 +82,8 @@ Output:
 ---
 
 ### Theory
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+Each of the pixels that represents an image stored insidea computer has a pixel value which describes how bright that pixel is, and/or what color it should be. For a grayscale images, the pixel value is a single number that represents the brightness of the pixel.The most common pixel format is the byte image, where this number is stored as an 8-bit integer giving a range of possible values from 0 to 255.Typically zero is taken to be black, and 255 is taken to be white. Values in between make up the different shades of gray.  
+Binary Search has  been  used  to  solve  above  mentioned problem.The  idea  of  binary  search is to use the fact that each row of the above matrix is either constant or is first decreasing upto a point(which will be the least element of the row) then increasing (opposite of Bitonic sequence) and hence the time complexity is reduced to mlog(n) where m = number of rows, n = number of columns.
 
 ---
 
@@ -103,13 +104,13 @@ Since  we  have  not  used  any  extradata structure in our algorithm so the spa
 1.  Introduction to Divide and Conquer Technique
     https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
 2.  Find an element in Bitonic arrayhttps:
-    //www.geeksforgeeks.org/find-element-bitonic-array/
+    https://www.geeksforgeeks.org/find-element-bitonic-array/
 3.  Pixel Valueshttps
-    //homepages.inf.ed.ac.uk/rbf/HIPR2/value.htm/
+    https://homepages.inf.ed.ac.uk/rbf/HIPR2/value.htm/
 4.  Digital Image Basicshttps
-    //www.whydomath.org/node/wavlets/imagebasics.html/
+    https://www.whydomath.org/node/wavlets/imagebasics.html/
 5.  Time Complexityhttps
-    //www.freecodecamp.org/news/time-complexity-of-algorithms/
+    https://www.freecodecamp.org/news/time-complexity-of-algorithms/
 6.  Space Complexityhttps
-    //en.wikipedia.org/wiki/Spacecomplexity/
+    https://en.wikipedia.org/wiki/Spacecomplexity/
 
