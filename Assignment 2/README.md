@@ -53,7 +53,6 @@ Curve fitting using Least squares Approximation
 
 **Test case**
 
-Find max
 ```
 Test Case-1
 Input:
