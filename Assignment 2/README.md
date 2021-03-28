@@ -19,37 +19,14 @@ Use divide and conquer to find stain in a cloth image.Take assumption for cloth 
 
 ---
 ## How to use code
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
-```
-#Download project
-git clone https://github.com/merazlab/daa 
-```
-Project Initialize 
-```
-cd daa
-#create assignment-1 folder
-mkdir assignment_01
-
-#go to assignment-1
-cd assignment_01
-
-#Create file
-touch readme.md
-touch main.py
-.
-.
-```
----
-
-Run the code
-```
-python main.py
-```
-Output
-```
-Curve fitting using Least squares Approximation
-```
----
+To run the code, follow the following procedure:
+1. Download the code(or project zip file) from the github repository.
+2. Extract the zip file downloaded above.
+3. Open the code with any IDE like Sublime Text, VS Code, Atom or some online compilers like GDB.
+4. If required, save the code with your own desirable name and extension is .cpp
+5. Run the code following the proper running commands(vary from IDE to IDE)
+(a) For VS Code: Press Function+F6 key and provide the input on the terminal.
+(b) For Sublime Text: Click on the Run button and provide the input.
 
 **Test case**
 
