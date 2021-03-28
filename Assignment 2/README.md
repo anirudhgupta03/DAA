@@ -3,7 +3,7 @@
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIT2019228  |   Anirudh Gupta | merazlab |
+|    IIT2019228  |   Anirudh Gupta | https://github.com/anirudhkgupta222 |
 |    IIT2019229  |   Navneet Bhole | mohan | 
 |    IIT2019230  |   Eshan Vaid | ram  |
 
@@ -107,9 +107,9 @@ Since  we  have  not  used  any  extradata structure in our algorithm so the spa
 3.  Pixel Valueshttps
     //homepages.inf.ed.ac.uk/rbf/HIPR2/value.htm/
 4.  Digital Image Basicshttps
-    //www.whydomath.org/node/wavlets/imagebasics.html
+    //www.whydomath.org/node/wavlets/imagebasics.html/
 5.  Time Complexityhttps
     //www.freecodecamp.org/news/time-complexity-of-algorithms/
 6.  Space Complexityhttps
-    //en.wikipedia.org/wiki/Spacecomplexity
+    //en.wikipedia.org/wiki/Spacecomplexity/
 
