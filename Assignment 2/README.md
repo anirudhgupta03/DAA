@@ -4,8 +4,8 @@
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
 |    IIT2019228  |   Anirudh Gupta | https://github.com/anirudhkgupta222 |
-|    IIT2019229  |   Navneet Bhole | mohan | 
-|    IIT2019230  |   Eshan Vaid | ram  |
+|    IIT2019229  |   Navneet Bhole | https://github.com/Ephiret | 
+|    IIT2019230  |   Eshan Vaid | https://github.com/eshanvaid  |
 
 **Group No-**"15"
 
