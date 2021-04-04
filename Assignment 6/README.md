@@ -77,8 +77,8 @@ Since we are using dp array to store solutions of subproblems dp[i] stores the p
     https://www.geeksforgeeks.org/dynamic-programming/
 2.  https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/
 3.  https://leetcode.com/problems/maximum-profit-in-job-scheduling/
-4.  Time Complexityhttps
+4.  Time Complexity
     https://www.freecodecamp.org/news/time-complexity-of-algorithms/
-5.  Space Complexityhttps
+5.  Space Complexity
     https://en.wikipedia.org/wiki/Spacecomplexity/
 
