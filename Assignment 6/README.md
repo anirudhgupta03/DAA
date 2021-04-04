@@ -56,8 +56,7 @@ Maxmimum Profit: 150
 ---
 
 ### Theory
-We have n jobs, where every job is scheduled to be done from startTime[i] to endTime[i], obtaining a profit of profit[i].\\\\We are given the startTime, endTime and profit arrays,and we have to find the maximum profit that we can get such that there are no two jobs in the subset with overlapping time range.
-This problem has both properties of Dynamic Programming, Optimal Substructure and Overlapping Subprob-lems.   Like  other  Dynamic  Programming  Problems,  we can  solve  this  problem  by  making  a  table  that  stores solution of subproblems.
+We have n jobs, where every job is scheduled to be done from startTime[i] to endTime[i], obtaining a profit of profit[i]. We are given the startTime, endTime and profit arrays,and we have to find the maximum profit that we can get such that there are no two jobs in the subset with overlapping time range. This problem has both properties of Dynamic Programming, Optimal Substructure and Overlapping Subprob-lems.   Like  other  Dynamic  Programming  Problems,  we can  solve  this  problem  by  making  a  table  that  stores solution of subproblems.
 ---
 
 ### Analysis
